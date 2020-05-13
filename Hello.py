@@ -1,1 +1,1 @@
-Print("HEy Whats Up?")
+Print("HEy WhatsUp people?")
