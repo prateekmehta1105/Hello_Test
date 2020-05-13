@@ -1,2 +1,5 @@
 Print("Hey  man Whats Up?")
-Print("Something")
+<<<<<<< Updated upstream
+Print("Nauware System")
+=======
+>>>>>>> Stashed changes
